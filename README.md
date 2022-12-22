@@ -21,7 +21,16 @@ const mydul = {
                         delegate: "Model United Nations",
                         member: "IEEE"
                       },
- challenge: "I am seeking a full-time position in the field of Nanotechnology, and Quantum Electronics"
+   SWOT: {
+                        strengths: " Optimistic, Punctuality, Fast decision making, Energetic, Open to new ideas, Quick Learner, Team player ",
+                        weaknesses: " Straightforward, Sensitive, Impatient, Introvert ",
+                        threats: " Constantly growing industry, Overworking myself ",
+                        opportunities: " Networking "
+                      },           
+                      
+ challenge: "Dreamed and determined about a good position in the field of Nanotechnology and Quantum Mechanics."
+ 
+ favorite_quote: “If I don’t have any shadow, I am not standing in the light.”
 }
 ```
 ---
