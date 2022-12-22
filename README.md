@@ -30,7 +30,7 @@ const mydul = {
                       
  challenge: "Dreamed and determined about a good position in the field of Nanotechnology and Quantum Mechanics."
  
- favorite_quote: “If I don’t have any shadow, I am not standing in the light.”
+ favorite_quote: "If I don’t have any shadow, I am not standing in the light."
 }
 ```
 ---
