@@ -13,7 +13,7 @@ A little more about me...
 ```javascript
 const mydul = {
   pronouns: "He" | "Him",
-  code: [C, Python, HTML, CSS, LATEX, MATLAB, VHDL, Arduino],
+  code: [C, C++, Python, HTML, CSS, Javascript, LaTeX, MATLAB, VHDL, Arduino, Shell script],
   tools: [Microsoft Office, Proteus, PSpice, LTSpice, OriginPro, MicroWind, COMSOL Multiphysics, Cadence],
   accustomed: ["Linux", "Windows", "Raspbian"],
   experience: {
