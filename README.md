@@ -22,10 +22,10 @@ const mydul = {
                         member: "IEEE"
                       },
    SWOT: {
-                        strengths: " optimistic, punctuality, energetic, open to new ideas, team player ",
-                        weaknesses: " straightforward, sensitive, impatient, introvert ",
-                        threats: " constantly growing industry, overworking ",
-                        opportunities: " networking "
+                        strengths: "optimistic, punctuality, energetic, open to new ideas, team player",
+                        weaknesses: "straightforward, sensitive, impatient, introvert",
+                        threats: "constantly growing industry, overworking",
+                        opportunities: "networking"
                       },           
                       
  challenge: "Dreamed and determined about a good position in the field of Nanotechnology and Quantum Mechanics."
