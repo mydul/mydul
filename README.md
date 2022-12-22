@@ -4,8 +4,8 @@
 ### Hi, I'm Mydul Islam! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
-<p><em>I am a masters student at <a href="http://www.uni-siegen.de"> Universität Siegen. </a>
-  I love to have fun with programming. <br>
+<p><em>A postgraduate student at <a href="http://www.uni-siegen.de"> Universität Siegen. </a>
+  I love to have fun with programming. And aspiring to learn new things outside the box. <br>
 </em></p>  
 
 A little more about me...
