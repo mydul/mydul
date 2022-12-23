@@ -5,9 +5,8 @@
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
 
-# Mydul's Biodata
 ```python
-# A little more about me...
+# Mydul's Biodata
 
 import json
 
@@ -37,6 +36,8 @@ biodata = Biodata(
 )
 
 print(biodata.to_json())
+
+# A little more about me...
 
 language = ["English", "German", "Bengali"]
 programming = ["C", "C++", "Python", "HTML", "CSS", "LaTeX", "MATLAB", "VHDL", "Arduino" , "Shell script"]
