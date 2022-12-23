@@ -5,7 +5,7 @@
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
 
-# Programmer Biodata
+# Mydul's Biodata
 ```python
 # A little more about me...
 
