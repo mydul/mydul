@@ -4,13 +4,11 @@
 ### Hi, I'm Mydul ! <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 [![GitHub Mydul](https://img.shields.io/github/followers/mydul?label=follow&style=social)](https://github.com/mydul)
 
-<p><em>A postgraduate student at <a href="http://www.uni-siegen.de"> Universität Siegen. </a><br>
-  I love to have fun with programming. And aspiring to learn new things outside the box. <br>
-</em></p>  
 
-A little more about me...
-
+# Programmer Biodata
 ```python
+# A little more about me...
+
 import json
 
 class Biodata:
@@ -85,7 +83,8 @@ class SWOT_analysis:
     print(f"My threats are {self.threats} \n")
     print(f"My opportunities is {self.opportunities} \n")
 
-mydul = SWOT_analysis("optimistic, punctuality, energetic, open to new ideas, team player", "straightforward, sensitive, impatient, introvert", "constantly growing industry, overworking", "networking")
+mydul = SWOT_analysis("optimistic, punctuality, energetic, open to new ideas, team player", "straightforward, sensitive, 
+                                        impatient, introvert", "constantly growing industry, overworking", "networking")
 
 mydul.bio()
 
