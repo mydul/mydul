@@ -7,6 +7,7 @@
 ### Mydul's Biodata
 
 ```python
+# A little more about me...
 
 import json
 
@@ -36,8 +37,6 @@ biodata = Biodata(
 )
 
 print(biodata.to_json())
-
-# A little more about me...
 
 language = ["English", "German", "Bengali"]
 programming = ["C", "C++", "Python", "HTML", "CSS", "LaTeX", "MATLAB", "VHDL", "Arduino" , "Shell script"]
